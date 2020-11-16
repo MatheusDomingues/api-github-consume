@@ -16,7 +16,7 @@ Entre elas, as libs:
 - date-fns
 - react-dom
 
-Utilizando a Metodologia Mobile First.
+Utilizando a Metodologia **Mobile First**.
 
 ### Instalação
 
