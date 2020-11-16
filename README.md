@@ -1,4 +1,6 @@
-# Cars-Manager
+# Api Github Consume
+
+Esta aplicação foi feita para testes e aprendizado sobre consumo de API e utilização de Typescript.
 
 ## Tecnologias utilizadas
 
