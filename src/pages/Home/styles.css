@@ -1,0 +1,39 @@
+#home-content {
+  width: 100vw;
+  height: 100vh;
+
+  justify-content: center;
+  align-items: center;
+
+  display: flex;
+  flex-direction: column;
+}
+
+#home-content .container {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+
+  height: 90%;
+  width: 90%;
+}
+
+#home-content .container h1 {
+  font-size: 38px;
+  line-height: 48px;
+  margin-bottom: 40px;
+}
+
+#home-content .pagination {
+  display: flex;
+  width: 80%;
+  max-width: 600px;
+  
+  justify-content: space-between;
+  align-items: center;
+}
+
+#home-content .pagination p {
+  font-size: 20px;
+}
