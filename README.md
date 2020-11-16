@@ -1,45 +1,45 @@
 # Api Github Consume
 
-Esta aplicação foi feita para testes e aprendizado sobre consumo de API e utilização de Typescript.
+This application was made for testing and learning about API consumption and use of Typescript.
 
-## Tecnologias utilizadas
+## Used Technologies
 
-Foram utilizadas nessa aplicação as tecnologias:
+The following technologies were used in this application:
 
 - ReactJS
 - Typescript
 - Axios
 
-Entre elas, as libs:
+Among them, the libs
 
 - react-router-dom
 - date-fns
 - react-dom
 
-Utilizando a Metodologia **Mobile First**.
+Using the Methodology **Mobile First**
 
-### Instalação
+### Installation
 
-Você precisa ter [Node.js](https://nodejs.org) em sua máquina para clonar este repositório:
+You need to have the [Node.js](https://nodejs.org) on your machine to clone this repository:
 
 ```sh
 $ git clone https://github.com/MatheusDomingues/api-github-consume.git
 ```
 
-Depois disso, acesse a pasta da aplicação e execute o seguinte comando.
+After that, access the application folder and run the following command.
 
 ```sh
 $ yarn # ou npm install
 ```
 
-### Executando a aplicação
+### Running the Application
 
-Estando na pasta da aplicação, execute o comando abaixo para inicializar o servidor.
+Once in the application folder, execute the command below to start the server.
 
 ```sh
 $ yarn start # ou npm start
 ```
 
-Após executar o servidor, irá direciona-lo automaticamente ao browser para a página da aplicação.
+After running the server, it will automatically direct the browser to an application page.
 
-Mas caso não seja direcionado, basta abrir seu browser e acessar 'http://localhost:3000/'
+But if you are not directed, just open your browser and access 'http://localhost:3000/'
